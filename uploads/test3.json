@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Диаметр окружности 8 см. Найдите радиус этой окружности.",
+    "answers": [
+      {
+        "answer": "4 см",
+        "result": true
+      },
+      {
+        "answer": "16 см",
+        "result": false
+      },
+      {
+        "answer": "24 см",
+        "result": false
+      },
+      {
+        "answer": "3 см",
+        "result": false
+      }
+    ]
+  },
+  {
+    "question": "Длина прямоугольника 6 см. Чему равна его ширина, если его периметр равен 20 см? ",
+    "answers": [
+      {
+        "answer": "7 см",
+        "result": false
+      },
+      {
+        "answer": "4 см",
+        "result": true
+      },
+      {
+        "answer": "8 см",
+        "result": false
+      },
+      {
+        "answer": "14 см",
+        "result": false
+      }
+    ]
+  },
+  {
+    "question": "Ширина первой комнаты - 3 метра. Вторая комната в два раза шире. Найди ширину второй комнаты.",
+    "answers": [
+      {
+        "answer": "5 метров",
+        "result": false
+      },
+      {
+        "answer": "6 метров",
+        "result": true
+      },
+      {
+        "answer": "7 метров",
+        "result": false
+      },
+      {
+        "answer": "8 метров",
+        "result": false
+      }
+    ]
+  },
+  {
+    "question": "Какое число на 3 больше чем 11?",
+    "answers": [
+      {
+        "answer": 14,
+        "result": false
+      },
+      {
+        "answer": 8,
+        "result": true
+      },
+      {
+        "answer": 7,
+        "result": false
+      },
+      {
+        "answer": 9,
+        "result": false
+      }
+    ]
+  }
+]

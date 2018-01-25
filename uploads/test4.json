@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Найди значение выражения 17 − (10 + 1).",
+    "answers": [
+      {
+        "answer": 6,
+        "result": true
+      },
+      {
+        "answer": 7,
+        "result": false
+      },
+      {
+        "answer": 5,
+        "result": false
+      },
+      {
+        "answer": 8,
+        "result": false
+      }
+    ]
+  },
+  {
+    "question": "Длина прямоугольника 8 см. Чему равна его ширина, если его периметр равен 20 см? ",
+    "answers": [
+      {
+        "answer": "7 см",
+        "result": false
+      },
+      {
+        "answer": "2 см",
+        "result": true
+      },
+      {
+        "answer": "8 см",
+        "result": false
+      },
+      {
+        "answer": "14 см",
+        "result": false
+      }
+    ]
+  },
+  {
+    "question": "Определи, сколько в числе десятков и сколько единиц в числе 92.",
+    "answers": [
+      {
+        "answer": "90 десятков, 2 единицы",
+        "result": false
+      },
+      {
+        "answer": "9 десятков, 2 единицы",
+        "result": true
+      },
+      {
+        "answer": "2 десятка, 9 единиц",
+        "result": false
+      },
+      {
+        "answer": "92 десятка, 2 единицы",
+        "result": false
+      }
+    ]
+  },
+  {
+    "question": "Какое число на 5 больше чем 14?",
+    "answers": [
+      {
+        "answer": 14,
+        "result": false
+      },
+      {
+        "answer": 9,
+        "result": true
+      },
+      {
+        "answer": 12,
+        "result": false
+      },
+      {
+        "answer": 8,
+        "result": false
+      }
+    ]
+  }
+]
